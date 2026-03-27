@@ -2,9 +2,9 @@
 
 Right click, set as wallpaper.
 
-|Wallpaper|
-|---------|
-|![](anti-activate.png)|
+|Wallpaper|Overlay Wallpaper|
+|---------|---|
+|![](anti-activate.png)|![](anti-activate-overlay.png)
 
 **Save on the desktop if you need it everyday :**
 
